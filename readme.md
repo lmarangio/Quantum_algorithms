@@ -7,3 +7,4 @@ https://learn.microsoft.com/en-gb/training/modules/qsharp-create-first-quantum-d
 - Quantum Random Number Generator
 
 In QRNG/Program.qs you may also find a solution to the Bonus Exercise reported in the tutorial.
+
